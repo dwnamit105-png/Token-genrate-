@@ -1,4 +1,3 @@
-// server.js - Complete system in one file
 const express = require('express');
 const axios = require('axios');
 const qs = require('qs');
